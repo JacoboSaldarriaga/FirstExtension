@@ -9,6 +9,18 @@
   },
   "permissions": ["storage"],
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/16Extension.png",
+      "32": "/images/32Extension.png",
+      "48": "/images/48Extension.png",
+      "128": "/images/128Extension.png"
+    }
+  },
+  "icons": {
+    "16": "/images/16Extension.png",
+    "32": "/images/32Extension.png",
+    "48": "/images/48Extension.png",
+    "128": "/images/128Extension.png"
   }
 }
